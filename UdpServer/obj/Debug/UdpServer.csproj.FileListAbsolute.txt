@@ -1,0 +1,6 @@
+c:\users\hoan-pc\documents\visual studio 2015\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.exe.config
+c:\users\hoan-pc\documents\visual studio 2015\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+c:\users\hoan-pc\documents\visual studio 2015\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+c:\users\hoan-pc\documents\visual studio 2015\Projects\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+c:\users\hoan-pc\documents\visual studio 2015\Projects\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+c:\users\hoan-pc\documents\visual studio 2015\Projects\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
